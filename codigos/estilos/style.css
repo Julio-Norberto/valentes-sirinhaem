@@ -98,3 +98,39 @@
 #adocao-button span {
     margin-left: 55px;
 }
+
+#padrinho {
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 200px;
+}
+
+#texto-padrinho {
+    font-size: 1.8em;
+    text-align:left;
+    width: 500px;
+}
+
+#botao-padrinho {
+    width: 200px;
+    height: 30px;
+    border-radius: 11px;
+    border: none;
+    color: white;
+    background: rgb(193, 112, 42);
+    font-size: 0.4em;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+#botao-padrinho:hover {
+    background: orange;
+}
+
+#padrinho a {
+    text-decoration: none;
+}
