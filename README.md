@@ -1,5 +1,5 @@
 # valentes-sirinhaem
- Este é um projeto feito com HTML5, CSS3 e JavaScript. Na minha cidade existe uma ONG que cuida de animais de rua, eu sempre via as publicações deles em redes socias e percebi que eles não tinham nenhuma plataforma própria na web, então decidi usar minhas habilidades na programação e contribuir com a causa do meu jeito, com essa ideia em mente este projeto foi criado, meu objetivo com programação sempre foi criar soluções reais que realmente tivessem impacto na vida das pessoas, fazer este projeto de fez muito feliz.
+ Este é um projeto feito com HTML5, CSS3 e JavaScript. Na minha cidade existe uma ONG que cuida de animais de rua, eu sempre via as publicações deles em redes socias e percebi que eles não tinham nenhuma plataforma própria na web, então decidi usar minhas habilidades na programação e contribuir com a causa do meu jeito, com essa ideia em mente este projeto foi criado, meu objetivo com programação sempre foi criar soluções reais que realmente tivessem impacto na vida das pessoas, fazer este projeto me fez muito feliz.
 
  ## Screenshots
 
