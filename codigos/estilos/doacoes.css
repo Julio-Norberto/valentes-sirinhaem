@@ -1,4 +1,51 @@
 * {
     margin: 0;
     padding: 0;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#doar {
+    width: 1000px;
+    height: 100vh;
+    display: flex;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#conteudo h1 {
+    font-size: 3em;
+}
+
+#conteudo p {
+    
+    font-size: 1.2em;
+}
+
+#conteudo button {
+    width: 200px;
+    height: 30px;
+    border: none;
+    border-radius: 11px;
+    font-size: 1em;
+    margin-top: 25px;
+    color: white;
+    background-color: rgb(193, 112, 42);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+#conteudo button:hover {
+    background: orange;
+}
+
+#conteudo a {
+    text-decoration: none;
+}
+
+#pix {
+    font-size: 0.8em;
+    text-decoration: underline;
 }
