@@ -114,7 +114,8 @@
 #texto-padrinho {
     font-size: 1.8em;
     text-align:left;
-    width: 500px;
+    margin-left: 50px;
+    width: 600px;
 }
 
 #texto-padrinho h1 {
@@ -139,4 +140,87 @@
 
 #padrinho a {
     text-decoration: none;
+}
+
+
+@media (min-width: 1350px) {
+    
+    #adocao {
+        width: 70%;
+    }
+
+    #texto-adocao {
+        width: 500px;
+    }
+
+    #padrinho {
+        width: 70%;
+    }
+
+}
+
+@media (max-width: 960px) {
+
+    #img-adocao-img {
+        width: 300px;
+    }
+
+    #texto-adocao {
+        width: 400px;
+        font-size: 0.8em;
+    }
+
+    #img-padrinho-img {
+        width: 300px;
+    }
+
+    #texto-padrinho {
+        width: 400px;
+        font-size: 1.3em;
+    }
+
+    #botao-padrinho {
+        font-size: 0.6em;
+    }
+
+    #topo h1 {
+        font-size: 2.5em;
+    }
+
+    #topo p {
+        width: 400px;
+        text-align: center;
+        font-size: 1.2em;
+    }
+}
+
+@media (max-width: 600px) {
+
+    #adocao {
+        flex-direction: column;
+        height: 500px;
+    }
+
+    #texto-adocao {
+        text-align: center;
+    }
+
+    #adocao-button {
+        text-align: center;
+        margin: 12px auto;
+    }
+
+    #padrinho {
+        flex-direction: column-reverse;
+    }
+
+    #texto-padrinho {
+        text-align: center;
+        margin-bottom: 100px;
+        margin-left: 0;
+    }
+
+    #botao-padrinho {
+        font-size: 0.6em;
+    }
 }
