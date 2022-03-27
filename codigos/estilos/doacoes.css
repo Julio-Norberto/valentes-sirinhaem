@@ -88,9 +88,22 @@
 
     #conteudo {
         text-align: center;
+        margin-top: 10px;
+    }
+
+    #conteudo h1 {
+        font-size: 2em;
+    }
+
+    #conteudo p {
+        font-size: 0.8em;
     }
 
     #qr-code {
-        width: 300px;
+        width: 150px;
+    }
+
+    #ajusta-img {
+        width: 240px;
     }
 }

@@ -198,11 +198,23 @@
 
     #adocao {
         flex-direction: column;
-        height: 500px;
+        height: 400px;
+        width: 360px;
     }
 
     #texto-adocao {
         text-align: center;
+    }
+
+    #texto-adocao h1 {
+        font-size: 2em;
+    }
+
+    #texto-adocao p {
+        text-align: center;
+        font-size: 1em;
+        margin-bottom: 30px;
+
     }
 
     #adocao-button {
@@ -212,6 +224,7 @@
 
     #padrinho {
         flex-direction: column-reverse;
+        width: 360px;
     }
 
     #texto-padrinho {
@@ -220,7 +233,34 @@
         margin-left: 0;
     }
 
+    #texto-padrinho h1 {
+        font-size: 1.2em;
+        text-align: center;
+        width: 300px;
+        margin: 0 auto;
+        margin-bottom: 30px;
+
+    }
+
     #botao-padrinho {
         font-size: 0.6em;
     }
+
+    #topo h1 {
+        text-align: center;
+        font-weight: bold;
+        color: black;
+    }
+
+    #topo p {
+        font-size: 1em;
+        width: 80%;
+        color: black;
+        font-weight: bold;
+    }
+
+    #topo {
+        width: 380px;
+    }
+
 }
